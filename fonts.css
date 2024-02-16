@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: 'montserratsemibold';
+    src: url('fontsfree-net-montserrat-semibold-webfont.woff2') format('woff2'),
+         url('fontsfree-net-montserrat-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+
+
+
+@font-face {
+    font-family: 'poppinslight';
+    src: url('fontsfree-net-poppins-light-webfont.woff2') format('woff2'),
+         url('fontsfree-net-poppins-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+}
+h1{
+    font-family: 'montserratsemibold';
+}
+
+
+
